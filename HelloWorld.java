@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("Hello class!!!");
 
         System.out.println("kdaslkdhasjdhlajdkashiuasda");
+        System.out.println("coding is so fun!!! I love it!!!");
     }
 
 }
